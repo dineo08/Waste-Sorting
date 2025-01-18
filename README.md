@@ -1,4 +1,7 @@
-Assessment Description 
+Assessment Description
+
+Objective
+ 
 Build a Spring Boot application that exposes a REST API for clients:
 Design RESTful APIs using Spring Boot to expose the required functionalities for
 data retrieval and manipulation.
